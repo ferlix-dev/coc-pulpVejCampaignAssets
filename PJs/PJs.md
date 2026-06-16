@@ -75,16 +75,57 @@ Las únicas personas a las que profesora cierto afecto son su madre, Margaret, y
 
 ## Justin Taylor
 
-Galán indiscutible, nepo baby dónde los haya. Justin Taylor, actor revelación, hijo de actriz y maestro de la espada. Sus últimas películas bien le han valido la fama, eso y la fortuna de mamá.
+Nacido en Los Ángeles en el seno de una influyente familia del mundo del cine. Justin cultivó desde pequeño un magnetismo social innato, favorecido por su esbelta figura y su físico atlético. La elitista educación y la rigurosa preparación para sus papeles en grandes superproducciones de peplum como El Rey David, La cohorte perdida o El laberinto de Tebas despertaron en él una fascinación natural por los clásicos y el trasfondo histórico. Estas películas le otorgaron fama mundial, una fortuna colosal y un notable dominio de la esgrima. Sin embargo, pronto terminó desencantado de esa actuación comercial y exagerada, sintiendo que a sus personajes les faltaba verdad.
 
-Elegante, esbelto, estirado, hermoso, refinado, sofisticado y taciturno así se define él. Intérprete medio alto, no el mejor tampoco el peor, su mayor arma es su encanto, y sus espadas. 
+Buscando romper con esos clichés, encontró su respuesta en Raquel Baxter, cuyo nombre real es Yuliia Anisimova, una brillante actriz exiliada soviética que se convirtió en su mentora, amante y guía en Hollywood. Ella lo introdujo en el sistema Stanislavski, una técnica revolucionaria basada en encarnar la psicología del personaje conectando con emociones reales. Bajo su tutela, Justin llegó a descifrar los textos originales en el idioma de su mentora, adiestró sus sentidos para captar el subtexto microscópico de la conducta humana y aprendió a transmutar su fisonomía de forma camaleónica para desaparecer en sus papeles. Al aplicar esta vanguardia interpretativa a la gran pantalla, se consolidó como una de las estrellas de cine más respetadas del Hollywood actual.
 
-A pesar de su aire de snob, no intentes engañarle, lo sabrá.
+Detrás del glamur de Hollywood, la familia ocultaba una inquietante herencia: su madre, Catherine, consumida por la necesidad de desenterrar la extraña desaparición de sus hermanos en la infancia, se sumergió por años en el esoterismo y las sesiones espiritistas. Esto la hizo descender paulatinamente a la locura y posterior a suicidarse. Eduard, el padre, intentó sepultar lo ocurrido bajo un hermético pacto de silencio mediático. Decidido a hallar respuestas discretamente, Justin recurrió a Madame Sybil la médium que había compartido muchas sesiones con su madre, así como a su gran amigo de los veranos de la infancia en Kingsport, Mathew Richards, rudo marinero reconvertido ahora en su fiel chofer y guardaespaldas. Las crípticas pistas recolectadas señalaron hacia un viejo caserón colonial en Massachusetts, impulsando a Justin a comprar la propiedad y trasladar allí a un discreto equipo de servicio doméstico.
 
-Su madre, la gran actriz. Su representante, el dueño del casino y su doble de acción son las personas en las que puede confiar, ser famoso tiene su precio.
+Justin compagina sus rodajes en Los Ángeles con temporadas de descanso en la mansión de Kingsport. Aunque no persigue el misterio de forma obsesiva, la constante protección de Mathew Richards y las discretas charlas con Madame Sybil mantienen su mente alerta ante los secretos que aguardan en la casa.
 
-Pertenence a distintos clubes liberales, destacando el que más disfruta, su club de fumadores. El estudio de cine, y como no su mansión en L.A. son sus lugares preferidos. Dentro de su mansión, puede pasar horas en su sala de armas, repleta de espadas y dónde practica el arte del esgrima del cual es un experto.
+**Gasto de puntos en Habilidades:**
+- **Arquetipo Gallardo (100 puntos):** Combatir (Espada) 40, Encanto 60.
+- **Ocupación Actor de Cine (EDU x 2 + APA x2: 280 puntos):** Arte/Artesanía (Interpretación) 75, Crédito 90, Disfrazarse 55, Psicología 60.
+- **Interés Personal (INT x 2: 160 puntos):** Buscar Libros 15, Escuchar 20, Esquivar 25, Leer Labios 21,  Ocultismo 30, Otras Lenguas (Ruso) 19, Historia 30.
 
+**Habilidades**:
+- **Arte/Artesanía (Interpretación): 80%** (5 base + 75 Ocu)
+- **Buscar Libros	35%**	(20 base + 15 IP)
+- **Combatir (Espada)	60**	(20 base + 40 Arq)
+- **Crédito	90%**	(0 base + 90 Ocu)
+- **Disfrazarse	60%**	(5 base + 55 Ocu)
+- **Encanto	75%**	(15 base + 60 Arq)
+- **Escuchar 40%**	(20 base + 20 IP)
+- **Esquivar 60%**	(35 base por DES/2 + 25 IP)
+- **Historia 35%**	(5 base + 30 IP)
+- **Leer Labios 22%** (1 base + 21 IP)
+- **Ocultismo 35%** (5 Base + 30 IP)
+- **Otras Lenguas (Ruso) 20%**	(1 base + 19 IP)
+- **Psicología 70%**	(10 base + 60 Ocu)
 
+**Descripción personal:**
+Sofisticado actor de porte esbelto y atlético, esculpido por las exigencias de la pantalla. Fascina por su intensa mirada y su camaleónicas transformaciones.
 
+**Ideología / creencias:**
+Busca la cruda realidad tras las diferentes capas de la complejidad humana. Interpreta su papel de figura destacada y cultivada con orgullo y romanticismo.
 
+**Allegados**
+- **Mathew Richards:** Chofer, guardaespaldas y su leal amigo de la infancia en la costa.
+- **Eduard Taylor:** Su padre; un implacable productor que oculta el pasado familiar.
+- **Catherine Taylor:** Su difunta madre; la trágica estrella que desató el misterio.
+- **Rachel Baxter:** Su mentora cinematográfica, ex-amante, rusa y pilar del Método.
+- **Madame Sybil:** Respetada ocultista de Los Ángeles que asistía a su madre.
+
+**Lugares significativos**
+- **La Mansión de los Acantilados (Kingsport):** Mansión colonial costera perteneciente al linaje de su madre.
+- **El Teatro Egipcio (Hollywood):** Icónico palacio del cine donde se consagraron sus grandes superproducciones.
+- **La Mansión de Bel-Air (Los Ángeles):** Opulento hogar de infancia y trágico escenario del suicidio materno.
+
+**Posesiones Preciadas**
+- **Bastón-Estoque de Plata:** Sofisticado accesorio de paseo que utiliza para entrenar sus reflejos de esgrima en cualquier lugar.
+- **Diarios de Catherine:** Cuadernos con transcripciones de las sesiones de sus trances espiritistas.
+- **Ejemplar de "Un actor se prepara":** El manual interpretativo anotado que rige su obsesivo sistema psicológico.
+- **Pitillera y Encendedor de Plata:** Un juego grabado a juego, obsequio personal de Rachel Baxter que le acompaña siempre.
+
+**Rasgos:**
+Apasionado, galante, jactancioso, romántico.
