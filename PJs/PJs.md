@@ -129,3 +129,24 @@ Busca la cruda realidad tras las diferentes capas de la complejidad humana. Inte
 
 **Rasgos:**
 Apasionado, galante, jactancioso, romántico.
+
+
+## Percival Peabody
+
+
+
+La fortuna de los Peabody es vieja y ancha como el continente. Ancla sus raices en los mas profundo del transporte maritimo.
+La mansion de los Peabody es grande y solida como la roca misma. Yace en lo mas profundo de Kingsport.
+La linea de los Peabody es larga y altiva como un gran roble. Pero si nos fijamos bien, tiene una rama podada.
+
+Percival Peabody no es un nombre que puedas encontrar facilmente en el arbol genealogico de la familia. Tienes que escarbar en los documentos mejores escondidos en las cajas fuertes mas ocultas para encontrarlo. Y no, no es un bastardo. Aunque sus mejores amigos si lo sean.
+
+Percy, que es como le conocen en la calle es el segundo hijo de Alistair Peabody, actual presidente de la compañía. Percy tubo la crianza que se esperaba. Percy tendria que haber sido normal. Pero en vez de disfrutar de las partidas de cartas y jugar al criquet Percy encontro una aficion mas incomoda. Robar.
+
+No es que lo necesitara… en un sentido puramente monetario. Lo necesitaba para sentirse libre, vivo. Se habia criado leyendo demasiado a Lupin, Raffles y Fantômas. No queria ser un ricachon mas. Queria ser un picaro y vivir sus propias aventuras. Se escabullia por los tejados, robaba a los criados solo por que su cerebro se lo pedia. Percy estaba loco. Percy creia que el mundo estaba loco. 
+
+Asi que ahora le podeis encontrar en Arkham. No en clubs de cartas bebiendo un brandy. En los callejones viviendo aventuras. Con las rodillas llenas de arañazos, cubiertas de sangre y barro. Con un diente menos. Ahi podeis encontrarle demasiado sumido en sus aventuras para que le interese el resto
+
+Percy tiene el mejor escondrijo de la ciudad. Su propia casa en el barrio mas rico de la ciudad. Su familia hace como que no existe, si. Pero le exiliaron a una casa donde 10 familias podrían vivir y todos los meses le enviaron un sobre con dinero. Sobres que se amontonan bajo la puerta sin abrir. Percy solo coje cuando lo necesita. En la pila de cartas tras su puerta hay tanto dinero como para comprar medio Arkham. Percy a veces prende fuego a los billetes para entrar en calor. 
+
+Percy llena sus estanterias de las mas variopintas cosas. Un gorro de policia que robo cuando nadie miraba. Una cuchara de madera de una casa pobre… .Pero hay un tesoro que siempre lleva encima. Un brazalete. No llamativo, si uno lo mira de lejos no parece mas que una tela grisácea roída alrededor del brazo. Si uno lo mira de cerca juraría que puede ver el mar moviéndose. Percy no sabe por qué. Pero no quiere ni puede quitárselo.
